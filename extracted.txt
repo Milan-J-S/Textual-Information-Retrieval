@@ -1,0 +1,266 @@
+Extracted Data
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+Manufacturer                   :  Samsung
+Model                          :  Galaxy S9
+Camera Resolution              :  12mp
+Battery Capacity               :  3000mah
+RAM                            :  6gb
+Processor                      :  snapdragon 845
+Price                          :  $700
+
+
+Manufacturer                   :  Google
+Model                          :  Google Pixel
+Camera Resolution              :  8mp
+Front Camera Resolution        :  8mp
+Screen Resolution              :  1080p
+Battery Capacity               :  2700mah
+OS                             :  android 8.0
+Processor                      :  snapdragon 835
+Price                          :  $849
+
+
+Manufacturer                   :  OxygenOS
+Model                          :  OnePlus
+Camera Resolution              :  20mp
+Front Camera Resolution        :  16mp
+Screen Resolution              :  1080p
+Screen Size                    :  5.5-incher
+Battery Capacity               :  3300mah
+OS                             :  android 8.0
+RAM                            :  6gb
+Processor                      :  snapdragon 835
+Price                          :  $499
+
+
+Manufacturer                   :  Huawei
+Model                          :  Mate
+Camera Resolution              :  20mp
+Lens Aperture                  :  f/1.6
+Video Recording                :  4k
+Battery Capacity               :  4,000mah
+OS                             :  android 8.0
+RAM                            :  6gb
+
+
+Manufacturer                   :  Huawei
+Model                          :  Honor
+Camera Resolution              :  13mp
+Screen Size                    :  5.99-inch
+Battery Capacity               :  3,750mah
+OS                             :  android 8.0
+RAM                            :  6gb
+
+
+Manufacturer                   :  BlackBerry
+Model                          :  KEYone
+Camera Resolution              :  8mp
+Front Camera Resolution        :  8mp
+Video Recording                :  4k
+Screen Size                    :  4.5-inch
+Battery Capacity               :  3,505mah
+OS                             :  android 7.1
+RAM                            :  3gb
+Price                          :  $549
+
+
+Manufacturer                   :  Samsung
+Model                          :  Galaxy S8
+Camera Resolution              :  12-megapixel
+Lens Aperture                  :  f/1.7
+Video Recording                :  4k
+Screen Resolution              :  QHD+
+Screen Size                    :  5.8-inch
+OS                             :  android 7.0
+RAM                            :  4gb
+Processor                      :  snapdragon 835
+
+
+Manufacturer                   :  HTC
+Model                          :  U11
+Camera Resolution              :  12mp
+Lens Aperture                  :  f/1.7
+Screen Size                    :  5.5-inch
+Battery Capacity               :  3000mah
+OS                             :  android 7.1
+RAM                            :  4gb
+Processor                      :  snapdragon 835
+Price                          :  $649
+
+
+Manufacturer                   :  Moto
+Model                          :  Moto Z2 Play
+Camera Resolution              :  16mp
+Screen Resolution              :  1080p
+Screen Size                    :  5.5-inch
+Battery Capacity               :  3000mah
+OS                             :  android 7.1
+RAM                            :  4gb
+Price                          :  $499
+
+
+Manufacturer                   :  Samsung
+Model                          :  Galaxy
+Camera Resolution              :  16mp
+Front Camera Resolution        :  16mp
+Screen Size                    :  6.2-inch
+Battery Capacity               :  3500mah
+OS                             :  android 7.1
+RAM                            :  6gb
+
+
+Manufacturer                   :  Motorola
+Model                          :  Moto X4
+Screen Resolution              :  1080p
+Screen Size                    :  5.2-inch
+Battery Capacity               :  3000mah
+RAM                            :  3gb
+Processor                      :  snapdragon 630
+Price                          :  $400
+
+
+Manufacturer                   :  Sony
+Model                          :  XZ1
+Screen Resolution              :  1080p
+Screen Size                    :  5.2-inch
+Battery Capacity               :  2700mah
+OS                             :  android 8.0
+RAM                            :  4gb
+Price                          :  $699
+
+
+Manufacturer                   :  LG
+Model                          :  V30
+Camera Resolution              :  16-megapixel
+Lens Aperture                  :  f/1.6
+Front Camera Resolution        :  5-megapixel
+Video Recording                :  4k
+Screen Size                    :  6.3-inch
+Battery Capacity               :  3,300mah
+OS                             :  android 7.1
+RAM                            :  6gb
+Price                          :  $700
+
+
+Manufacturer                   :  Samsung
+Model                          :  Galaxy
+Screen Size                    :  6.3-inch
+Battery Capacity               :  3300mah
+RAM                            :  6gb
+
+
+Manufacturer                   :  Huawei
+Model                          :  Mate
+Camera Resolution              :  20-megapixel
+Screen Resolution              :  1080p
+Screen Size                    :  5.9-inch
+Battery Capacity               :  4000mah
+OS                             :  android 7.0
+RAM                            :  4gb
+Processor                      :  kirin 960
+Price                          :  $450
+
+
+Manufacturer                   :  NFC
+Model                          :  Android Pay
+Camera Resolution              :  13mp
+Screen Resolution              :  720p
+OS                             :  android 7.1
+RAM                            :  2gb
+Processor                      :  snapdragon 430
+
+
+Manufacturer                   :  OnePlus
+Model                          :  RAM
+Camera Resolution              :  16mp
+Lens Aperture                  :  f/1.7
+Screen Resolution              :  1080p
+Screen Size                    :  5.5-inch
+Battery Capacity               :  3000mah
+RAM                            :  8gb
+Price                          :  $200
+
+
+Manufacturer                   :  Xiaomi
+Model                          :  Xiaomi Mi
+Camera Resolution              :  12-megapixel
+Lens Aperture                  :  f/1.8
+Screen Resolution              :  QHD
+Screen Size                    :  5.7-inch
+Battery Capacity               :  3,350mah
+OS                             :  android 7.1
+RAM                            :  6gb
+Price                          :  $360
+
+
+Manufacturer                   :  Samsung
+Model                          :  Galaxy
+
+
+Manufacturer                   :  Android
+Model                          :  HTC
+
+
+Manufacturer                   :  OnePlus
+Model                          :  Nougat
+Camera Resolution              :  16mp
+Lens Aperture                  :  f/2.0
+Front Camera Resolution        :  8mp
+Video Recording                :  1080p
+Screen Resolution              :  1080p
+OS                             :  android 6.0
+Processor                      :  snapdragon 821
+Price                          :  $439
+
+
+Manufacturer                   :  Essential
+Model                          :  Essential Phone
+Screen Size                    :  5.7-inch
+Battery Capacity               :  3040mah
+Price                          :  $499
+
+
+Manufacturer                   :  iPhone
+Model                          :  iPhone X
+Camera Resolution              :  12mp
+Video Recording                :  4k
+Battery Capacity               :  2716mah
+OS                             :  ios 11
+Price                          :  $999
+
+
+Manufacturer                   :  Sony
+Model                          :  Sony Xperia
+Camera Resolution              :  5-megapixel
+Video Recording                :  4k
+Screen Size                    :  4.5-inch
+Battery Capacity               :  2870mah
+OS                             :  android 8
+Processor                      :  snapdragon 845
+
+
+Manufacturer                   :  ZTE
+Model                          :  Galaxy S7
+Camera Resolution              :  .mp
+Lens Aperture                  :  f/1.8
+Front Camera Resolution        :  8mp
+Video Recording                :  1080p
+Screen Resolution              :  QHD
+Screen Size                    :  5.5-inch
+OS                             :  android 6.0
+RAM                            :  4gb
+Price                          :  $400
+
+
+Manufacturer                   :  LG
+Model                          :  LG G5
+Screen Size                    :  5.3-inch
+OS                             :  android 6.0
+RAM                            :  4gb
+Processor                      :  snapdragon 810
+Price                          :  $3
+
+
